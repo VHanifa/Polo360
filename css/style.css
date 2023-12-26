@@ -37,7 +37,7 @@ main {
     height: 340px;
     border-radius: 8px;
     border: 1px solid #c6c6c6;
-    background: url('/img/slider1.jpg') center/cover;
+    background: url('../img/slider1.jpg') center/cover;
 }
 .row {
     padding: 20px 0;
