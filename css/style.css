@@ -30,7 +30,7 @@ footer {
 }
 main {
     
-    background: #fff url(/img/mainbg.jpg) repeat-x;
+    background: #fff url('../img/mainbg.jpg') repeat-x;
     padding: 22px 0 0;
 }
 #slider {
